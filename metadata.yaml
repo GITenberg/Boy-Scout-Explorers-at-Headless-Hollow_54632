@@ -1,0 +1,23 @@
+_repo: Boy-Scout-Explorers-at-Headless-Hollow_54632
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Palmer, Don
+    gutenberg_agent_id: '47960'
+    url: http://www.gutenberg.org/2009/agents/47960
+  - agent_name: Benson, Mildred A. Wirt
+    gutenberg_agent_id: '47961'
+    url: http://www.gutenberg.org/2009/agents/47961
+description: ''
+gutenberg_issued: '2017-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Boy Scout Explorers at Headless Hollow
+url: http://www.gutenberg.org/ebooks/54632
