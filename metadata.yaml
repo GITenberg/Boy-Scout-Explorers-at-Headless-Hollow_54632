@@ -1,5 +1,8 @@
 _repo: Boy-Scout-Explorers-at-Headless-Hollow_54632
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54632-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Palmer, Don
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47961'
     url: http://www.gutenberg.org/2009/agents/47961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54632#Boy-Scout-Explorers-at-Headless-Hollow
 gutenberg_issued: '2017-04-29'
 gutenberg_type: Text
 identifiers:
